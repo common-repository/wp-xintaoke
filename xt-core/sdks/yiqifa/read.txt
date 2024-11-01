@@ -1,0 +1,28 @@
+1、sdk调用实例
+<?php
+header("Content-type: text/html; charset=GBK");
+
+include "initSdk.php";
+//实例化YiqifaOpen类
+
+$c = new YiqifaOpen;
+
+$c->consumerKey = "admin";
+
+$c->consumerSecret = "1234";
+
+$c->format="xml";
+
+//实例化具体API对应的Request类
+
+$req = new TuanCityGetRequest;
+
+$req->setFields("brand_catid,brand_cname,modified_time");
+
+//执行API请求并打印结果
+
+$resp = $c->execute($req);
+
+print_r($resp);
+
+?>

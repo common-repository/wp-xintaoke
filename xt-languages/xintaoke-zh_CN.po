@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xintaoke\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-19 07:20+0800\n"
+"PO-Revision-Date: 2013-01-19 07:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: Xintao\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _x;_e;__;_;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /usr/local/apache2/htdocs/wordpress/wp-content/plugins/wp-xintaoke\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /usr/local/apache2/htdocs/wordpress/wp-content/plugins/wp-xintaoke\n"
+
+#: /usr/local/apache2/htdocs/wordpress/wp-content/plugins/wp-xintaoke/xt-admin/admin.php:10
+msgid "xintaoke"
+msgstr "新淘客"
+
+#: /usr/local/apache2/htdocs/wordpress/wp-content/plugins/wp-xintaoke/xt-connect/login.php:110
+#: /usr/local/apache2/htdocs/wordpress/wp-content/plugins/wp-xintaoke/xt-connect/login.php:113
+#: /usr/local/apache2/htdocs/wordpress/wp-content/plugins/wp-xintaoke/xt-connect/login.php:130
+#, fuzzy, php-format
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>错误</strong>:无法完成注册请求,请联系<a href=\"mailto:%s\">站点管理员</a> !"
+
+#: /usr/local/apache2/htdocs/wordpress/wp-content/plugins/wp-xintaoke/xt-core/xt-constants.php:406
+#, fuzzy
+msgid "xintao"
+msgstr "新淘客"
+
+#: /usr/local/apache2/htdocs/wordpress/wp-content/plugins/wp-xintaoke/xt-includes/template-share.php:565
+#, php-format
+msgid "Cash Back %s"
+msgstr ",返%s元"
+
+#: /usr/local/apache2/htdocs/wordpress/wp-content/plugins/wp-xintaoke/xt-includes/template-share.php:682
+msgid "no share"
+msgstr "没有找到符合的宝贝分享"
+
+#~ msgid "no album"
+#~ msgstr "没有找到符合的专辑"
+
+#~ msgid ""
+#~ "Duplicate comment detected; it looks as though you&#8217;ve already said "
+#~ "that!"
+#~ msgstr "重复评论啦!"
+
+#~ msgid "Previous Page"
+#~ msgstr "上一页"
+
+#~ msgid "Next Page"
+#~ msgstr "下一页"
+
+#, fuzzy
+#~ msgid "Viewing share %1$s to %2$s (of %3$s shares)"
+#~ msgstr "浏览%1$s to %2$s (共 %3$s)"
+
+#, fuzzy
+#~ msgid "Viewing comment %1$s to %2$s (of %3$s comments)"
+#~ msgstr "浏览%1$s to %2$s (共 %3$s)"
+
+#, fuzzy
+#~ msgid "Viewing album %1$s to %2$s (of %3$s albums)"
+#~ msgstr "浏览%1$s to %2$s (共 %3$s)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Conditional query tags do not work before the query is run. Before then, "
+#~ "they always return false."
+#~ msgstr "当前数据查询尚未完成"
+
+#, fuzzy
+#~ msgid ""
+#~ "Looks like you're running an older version of WordPress, you need to be "
+#~ "running at least WordPress 3.0 to use WP xintaoke 1.0"
+#~ msgstr "新淘客1.0要求WordPress版本位3.0以上,请升级您的WordPress版本"
+
+#, fuzzy
+#~ msgid "WP xintaoke 1.0 not compatible"
+#~ msgstr "版本不兼容"
+
+#~ msgid "no share in user favorite"
+#~ msgstr "还没有喜欢的分享"
+
+#~ msgid "no share in user share"
+#~ msgstr "还没有分享任何宝贝"
+
+#~ msgid "no album in user favorite"
+#~ msgstr "还没有喜欢的专辑"
+
+#~ msgid "no album in user share"
+#~ msgstr "还没有创建任何专辑"
+
+#~ msgid "no fans in user"
+#~ msgstr "还没有粉丝"
+
+#~ msgid "no follow in user"
+#~ msgstr "还没有关注任何人"
+
+#, fuzzy
+#~ msgid "Tags"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "Categories"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "Topics"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "Groups"
+#~ msgstr "来源 %s"
+
+#~ msgid "Tag"
+#~ msgstr "标签"
+
+#, fuzzy
+#~ msgid "Catalog"
+#~ msgstr "访问作者页面"
+
+#, fuzzy
+#~ msgid "Album"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "Topic"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "Group"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "Search Tags"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "Search Categories"
+#~ msgstr "搜索分类"
+
+#, fuzzy
+#~ msgid "Search Albums"
+#~ msgstr "搜索专辑"
+
+#, fuzzy
+#~ msgid "Search Topics"
+#~ msgstr "最热"
+
+#, fuzzy
+#~ msgid "Popular Tags"
+#~ msgstr "潮流"
+
+#, fuzzy
+#~ msgid "Popular Categories"
+#~ msgstr "潮流"
+
+#, fuzzy
+#~ msgid "Popular Albums"
+#~ msgstr "潮流"
+
+#, fuzzy
+#~ msgid "Popular Topics"
+#~ msgstr "潮流"
+
+#, fuzzy
+#~ msgid "All Tags"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "All Categories"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "All Albums"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "All Topics"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "All Groups"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "Parent Catalog"
+#~ msgstr "上级分类"
+
+#, fuzzy
+#~ msgid "Parent Catalog:"
+#~ msgstr "上级分类:"
+
+#, fuzzy
+#~ msgid "Edit Tag"
+#~ msgstr "最热"
+
+#, fuzzy
+#~ msgid "Edit Catalog"
+#~ msgstr "访问作者页面"
+
+#, fuzzy
+#~ msgid "Edit Album"
+#~ msgstr "最热"
+
+#, fuzzy
+#~ msgid "Edit Group"
+#~ msgstr "最热"
+
+#, fuzzy
+#~ msgid "View Tag"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "View Catalog"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "View Album"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "View Topic"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "View Group"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "Update Tag"
+#~ msgstr "最热"
+
+#, fuzzy
+#~ msgid "Update Catalog"
+#~ msgstr "编辑分类"
+
+#, fuzzy
+#~ msgid "Update Album"
+#~ msgstr "编辑专辑"
+
+#, fuzzy
+#~ msgid "Update Group"
+#~ msgstr "潮流"
+
+#, fuzzy
+#~ msgid "Add New Catalog"
+#~ msgstr "新增分类"
+
+#, fuzzy
+#~ msgid "Add New Album"
+#~ msgstr "新增专辑"
+
+#, fuzzy
+#~ msgid "Add New Group"
+#~ msgstr "新增分组"
+
+#, fuzzy
+#~ msgid "New Tag Name"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "New Catalog Name"
+#~ msgstr "新专辑名称"
+
+#, fuzzy
+#~ msgid "New Album Name"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "New Group Name"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "Separate tags with commas"
+#~ msgstr "多个标签请用英文逗号（,）分开"
+
+#, fuzzy
+#~ msgid "Add or remove tags"
+#~ msgstr "新增或删除标签"
+
+#, fuzzy
+#~ msgid "Choose from the most used tags"
+#~ msgstr "从常用标签中选择"
+
+#, fuzzy
+#~ msgid "Invalid taxonomy"
+#~ msgstr "分类类型无效"
+
+#, fuzzy
+#~ msgid "Empty Term"
+#~ msgstr "来源 %s"
+
+#, fuzzy
+#~ msgid "Invalid term ID"
+#~ msgstr "无效的条目标示"
+
+#, fuzzy
+#~ msgid "A name is required for this term"
+#~ msgstr "分组名称不能为空"
+
+#, fuzzy
+#~ msgid "A term with the name provided already exists with this parent."
+#~ msgstr "该分组已存在"
+
+#, fuzzy
+#~ msgid "Could not insert term into the database"
+#~ msgstr "保存分组失败"
+
+#, fuzzy
+#~ msgid "A term with the name provided already exists."
+#~ msgstr "该分组已存在"
+
+#, fuzzy
+#~ msgid "The slug &#8220;%s&#8221; is already in use by another term"
+#~ msgstr "分组别名已存在"
+
+#, fuzzy
+#~ msgid "Invalid object ID"
+#~ msgstr "无效标示"
+
+#, fuzzy
+#~ msgid ""
+#~ "<strong>Your WP Xintaoke data needs to be updated</strong>. You've "
+#~ "upgraded from a previous version of the WP Xintaoke plugin, and your "
+#~ "store needs updating.<br>You should <a href=\"%1s\">update your database</"
+#~ "a> for your store to continue working."
+#~ msgstr ""
+#~ "<strong>您的新淘客数据库需要升级</strong>.<br>点击 <a href=\"%1s\">更新数"
+#~ "据库</a> 以保证您的站点正常运行."
+
+#~ msgid "Guess u like"
+#~ msgstr "猜你喜欢"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: Please enter a username."
+#~ msgstr "<strong>错误</strong>:请输入用户名"
+
+#, fuzzy
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This username is invalid.  Please enter a valid "
+#~ "username."
+#~ msgstr "<strong>错误</strong>:用户名无效"
+
+#, fuzzy
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This username is already registered, please "
+#~ "choose another one."
+#~ msgstr "<strong>错误</strong>:该用户名已被注册"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: Please type your e-mail address."
+#~ msgstr "<strong>错误</strong>:请输入您的邮箱(email)地址"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+#~ msgstr "<strong>错误</strong>:邮箱地址不正确"
+
+#, fuzzy
+#~ msgid ""
+#~ "<strong>ERROR</strong>: This email is already registered, please choose "
+#~ "another one."
+#~ msgstr "<strong>错误</strong>:邮箱地址已被注册"
+
+#, fuzzy
+#~ msgid ""
+#~ "Please refrain from uploading images larger than <strong>%d x %d</strong> "
+#~ "pixels"
+#~ msgstr "上传图片尺寸不能超过<strong>%d x %d</strong>"
+
+#, fuzzy
+#~ msgid "Visit upgrade homepage"
+#~ msgstr "访问升级页面"
+
+#, fuzzy
+#~ msgid "Visit author homepage"
+#~ msgstr "访问作者页面"
+
+#, fuzzy
+#~ msgid "Share Categories"
+#~ msgstr "搜索分类"
+
+#~ msgid "Width:"
+#~ msgstr "宽度"
+
+#~ msgid "Height:"
+#~ msgstr "高度"
+
+#, fuzzy
+#~ msgid "newest"
+#~ msgstr "最新"
+
+#, fuzzy
+#~ msgid "popular"
+#~ msgstr "潮流"
+
+#~ msgid "hot"
+#~ msgstr "热门"
+
+#~ msgid "no share in user album"
+#~ msgstr "该专辑还没有加入任何分享"
+
+#~ msgid "&larr;"
+#~ msgstr "上一页"
+
+#~ msgid "&rarr;"
+#~ msgstr "下一页"
+
+#~ msgid "xt_lang:hot"
+#~ msgstr "最热"
+
+#~ msgid "xt_lang:By %s"
+#~ msgstr "来源 %s"
